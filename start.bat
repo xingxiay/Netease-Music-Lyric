@@ -1,3 +1,3 @@
 @echo off
-python ".\auto lyric.py"
+python ".\Netease-Music-Lyric Pro.py"
 pause
